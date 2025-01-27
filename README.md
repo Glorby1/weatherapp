@@ -8,6 +8,7 @@ pip install requests
 pip install opencage
 pip install mysql-connector-python
 
+To start : python3 weather_app.py
 
 Used weatherAPI and OpenCage for this project (weather, and geolocalisation)
 
